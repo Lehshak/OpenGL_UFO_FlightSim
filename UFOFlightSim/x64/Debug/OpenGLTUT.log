@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Coords.vcxproj, OpenGLTUT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\lehsh\source\repos\OpenGLFlightSim\OpenGLTUT\Main.cpp(238,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lehsh\source\repos\OpenGLFlightSim\OpenGLTUT\Main.cpp(239,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lehsh\source\repos\OpenGLFlightSim\OpenGLTUT\Main.cpp(240,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lehsh\source\repos\OpenGLFlightSim\OpenGLTUT\Main.cpp(494,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lehsh\source\repos\OpenGLFlightSim\OpenGLTUT\Main.cpp(507,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lehsh\source\repos\OpenGLFlightSim\OpenGLTUT\Main.cpp(511,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lehsh\source\repos\OpenGLFlightSim\OpenGLTUT\Main.cpp(599,57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  OpenGLTUT.vcxproj -> C:\Users\lehsh\source\repos\OpenGLFlightSim\x64\Debug\FlightSim.exe
