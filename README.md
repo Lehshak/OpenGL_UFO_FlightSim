@@ -21,9 +21,7 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 
 ## Demo
 
-*(Replace this section with your video embed code or a link to your video. Example:)*
-
-[![Watch the demo video](link/to/your/video_play_button.png)](./ReadmeVids.mp4)
+![UFO flying over the generated terrain](./ReadmeVids/flight_demo.mp4)
 
 
 ---
@@ -32,7 +30,7 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 
 *(Replace this section with actual screenshots of your simulation. Example:)*
 
-![UFO flying over the generated terrain](./ReadmeVids/UFO.png)
+![Close up on the terrain](./ReadmeVids/UFO.png)
 
 
 ## Features
