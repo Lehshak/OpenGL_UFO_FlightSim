@@ -14,7 +14,6 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 * **A / D:** Strafe UFO Left / Right
 * **Space:** Move UFO Up
 * **Shift + Space:** Move UFO Down
-* **Q / E:** Rotate UFO (Yaw) Left / Right
 * **Mouse Scroll Wheel:** Adjust Camera Zoom (Field of View)
 
 ---
