@@ -8,7 +8,37 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 
 ---
 
-## ✨ Features
+### Controls
+
+* **W / S:** Move UFO Forward / Backward
+* **A / D:** Strafe UFO Left / Right
+* **Space:** Move UFO Up
+* **Shift + Space:** Move UFO Down
+* **Q / E:** Rotate UFO (Yaw) Left / Right
+* **Mouse Scroll Wheel:** Adjust Camera Zoom (Field of View)
+
+---
+
+## Demo
+
+*(Replace this section with your video embed code or a link to your video. Example:)*
+
+[![Watch the demo video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
+## 📸 Screenshots
+
+*(Replace this section with actual screenshots of your simulation. Example:)*
+
+![Screenshot 1](https://placehold.co/800x450/000000/FFFFFF?text=Screenshot+1)
+*UFO flying over the generated terrain.*
+
+![Screenshot 2](https://placehold.co/800x450/000000/FFFFFF?text=Screenshot+2)
+*Close-up of the UFO with transparency effects.*
+
+
+## Features
 
 * **Dynamic UFO Control:** Command a customizable UFO with realistic movement and unique swirling animations.
 * **Advanced GLSL Shaders:** Custom-built shaders implementing:
@@ -79,35 +109,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  Navigate to the directory containing your compiled executable (e.g., `OpenGLTUT/x64/Release/`).
 2.  Ensure `glfw3.dll` is present in this same directory.
 3.  Double-click `UFOFlightSim.exe` (or your project's executable name) to run the simulation.
-
-### Controls
-
-* **W / S:** Move UFO Forward / Backward
-* **A / D:** Strafe UFO Left / Right
-* **Space:** Move UFO Up
-* **Shift + Space:** Move UFO Down
-* **Q / E:** Rotate UFO (Yaw) Left / Right
-* **Mouse Scroll Wheel:** Adjust Camera Zoom (Field of View)
-
----
-
-## Demo
-
-*(Replace this section with your video embed code or a link to your video. Example:)*
-
-[![Watch the demo video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
----
-
-## 📸 Screenshots
-
-*(Replace this section with actual screenshots of your simulation. Example:)*
-
-![Screenshot 1](https://placehold.co/800x450/000000/FFFFFF?text=Screenshot+1)
-*UFO flying over the generated terrain.*
-
-![Screenshot 2](https://placehold.co/800x450/000000/FFFFFF?text=Screenshot+2)
-*Close-up of the UFO with transparency effects.*
 
 ---
 
