@@ -1,7 +1,5 @@
 Here's a comprehensive and professional README.md for your GitHub repository. It includes all the sections you requested, with clear placeholders for your video and images.
 
-Markdown
-
 # 🛸 3D UFO Flight Simulation
 
 A real-time 3D flight simulation project featuring a controllable UFO with dynamic animations, flying over procedurally generated terrain. Developed using modern OpenGL, this project showcases advanced rendering techniques and efficient GPU resource management.
