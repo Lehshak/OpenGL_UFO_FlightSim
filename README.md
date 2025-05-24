@@ -26,9 +26,7 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 
 ---
 
-## 📸 Screenshots
-
-*(Replace this section with actual screenshots of your simulation. Example:)*
+##  Screenshots
 
 ![Close up on the terrain](./ReadmeVids/UFO.png)
 
