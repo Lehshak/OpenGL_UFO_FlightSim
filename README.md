@@ -23,7 +23,8 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 
 *(Replace this section with your video embed code or a link to your video. Example:)*
 
-[![Watch the demo video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo video](link/to/your/video_play_button.png)](./ReadmeVids.mp4)
+
 
 ---
 
@@ -31,11 +32,7 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 
 *(Replace this section with actual screenshots of your simulation. Example:)*
 
-![Screenshot 1](https://placehold.co/800x450/000000/FFFFFF?text=Screenshot+1)
-*UFO flying over the generated terrain.*
-
-![Screenshot 2](https://placehold.co/800x450/000000/FFFFFF?text=Screenshot+2)
-*Close-up of the UFO with transparency effects.*
+![UFO flying over the generated terrain](./ReadmeVids/UFO.png)
 
 
 ## Features
