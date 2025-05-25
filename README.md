@@ -15,7 +15,7 @@ A real-time 3D flight simulation project featuring a controllable UFO with dynam
 ---
 
 ## Demo
-[![Watch the demo video!](https://img.youtube.com/vi/-K9wY5l_crM&ab/0.jpg)](https://www.youtube.com/watch?v=-K9wY5l_crM&ab)
+[![Click this link to watch the demo video on youtube!](https://img.youtube.com/vi/-K9wY5l_crM&ab/0.jpg)](https://www.youtube.com/watch?v=-K9wY5l_crM&ab)
 
 
 
